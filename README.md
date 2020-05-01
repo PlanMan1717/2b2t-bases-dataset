@@ -4,7 +4,7 @@
 
 > Help me grow and expand the list.
 > Please submit a pull request with the date, time, and (optionally) your username to add data.
-> Your username (or 'anonymous') will be added to ```contributers.txt``` along with the number of valid, non-duplicate data points provided.
+> Your username (or 'anonymous') will be added to ```contributors.txt``` along with the number of valid, non-duplicate data points provided.
 
 > I wish to use the data on how distance from spawn affects building safety.
 > Do with it what you want as long as you credit this. ***EXCEPT FOR GRIEFING***
